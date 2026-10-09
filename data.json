@@ -1,7 +1,7 @@
 {
   "name": "张兆睿",
   "bio": "数字媒体艺术",
-  "avatar": "./images/img_01.webp",
+  "avatar": "https://tszx-commits.github.io/portfolio/images/img_01.webp",
   "aboutContent": "<div class=\"about-intro reveal reveal-delay-1 active\">\n                    <p class=\"editable-text\">性格开朗、积极向上的大三学生，数字媒体艺术专业背景，具备扎实的理论基础和丰\n富的实践经验。在校期间成绩优异，积极参与各类活动，持续拓展技能边界，熟练掌\n握专业设计软件、AI 创作工具及影视后期、三维引擎相关技术。通过英语助教、会务\n协调、产品经理等多份实习经历，不仅锻炼了沟通表达、团队协作能力，更积累了产\n品策划、项目推进及展会落地的实战经验，能够快速适应多元化工作场景。希望能够\n将所学专业技能与实践经验结合，为相关岗位贡献自己的力量。</p>\n                </div>\n                <div class=\"about-details reveal reveal-delay-2 active\">\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-video-camera\"></i></div>\n                        <div class=\"detail-title editable-text\">3D视觉</div>\n                        <div class=\"detail-desc editable-text\">喜欢用光影和材质搭建有情绪的空间，在 UE5 / Blender 里探索三维叙事的氛围感，享受把抽象概念变成可感知场景的过程。</div>\n                    </div>\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-paint-brush\"></i></div>\n                        <div class=\"detail-title editable-text\">动态影像</div>\n                        <div class=\"detail-desc editable-text\">对画面节奏和视觉情绪比较敏感，习惯用 After Effects 打磨动态设计与后期氛围，希望让每个镜头都有属于它的呼吸感。。</div>\n                    </div>\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-code\"></i></div>\n                        <div class=\"detail-title editable-text\">AI创作</div>\n                        <div class=\"detail-desc editable-text\">把 AIGC 当作灵感放大镜，尝试用它拓展视觉表达的边界，让 AI 成为连接想象与成片之间的桥梁。</div>\n                    </div>\n                </div>\n                <div class=\"about-quote reveal reveal-delay-3 active\">\n                    <p class=\"editable-text\">设计不仅是视觉的呈现，更是思想的延伸。每一次创作，都是与世界对话的一次尝试。</p>\n                    <div class=\"quote-author editable-text\">— 张兆睿</div>\n                </div>",
   "email": "1839601443@qq.com",
   "phone": "+86 18519534699",
@@ -35,6 +35,20 @@
       ],
       "date": "2026",
       "tag": "3D AE"
+    },
+    {
+      "type": "video",
+      "title": "阈界",
+      "desc": "阈界》是一部未来科幻风格的三维场景短片，以人形角色在城市空间中的行走为线索，通过跟随、低机位、俯视与特写镜头展示场景层次和角色细节。制作过程中，我使用 Blender 进行建模与资产整理，使用 Adobe Substance 3D Painter（SP）制作材质与贴图，并在 Unreal Engine 5（UE5）中完成场景搭建、灯光调整、镜头编排与渲染输出，实践了从模型、材质到引擎呈现的完整制作流程。作品通过白色建筑、红色标识与绿色植被的搭配，呈现科技感与自然元素并存的空间氛围。本次创作加深了我对跨软件协作和整体视觉表达的理解，后续还将继续打磨角色动作、镜头衔接与材质细节，提升作品的叙事性和完成度。",
+      "url": "./videos/yujie.mp4",
+      "media": [
+        {
+          "type": "video",
+          "url": "./videos/yujie.mp4"
+        }
+      ],
+      "date": "2026",
+      "tag": "3D"
     },
     {
       "type": "video",
@@ -124,7 +138,7 @@
       "type": "image",
       "title": "服贸会绿色银行",
       "desc": "智慧绿色银行网点3D展示视频（服贸会参展项目）\n中国国际服务贸易交易会参展项目，以建设银行智慧绿色网点为原型的三维展示内容，我在团队中负责3D场景搭建与展示视频制作。在UE5中以实时渲染标准还原银行营业厅全貌：大理石大厅、业务柜台、智能柜员机、叫号机等设施按真实网点布局搭建；围绕\"绿色金融、绿色建设、智能化设计、无障碍设计、绿色运营\"五大主题，设计悬浮空间标签与全息数据可视化大屏，将抽象的网点理念转化为可漫游的空间信息；最终通过漫游镜头输出完整的展示视频，在展会现场向观众直观呈现智慧绿色网点的空间形态与服务理念。",
-      "url": "./images/img_02.webp",
+      "url": "./images/img_03.webp",
       "media": [
         {
           "type": "image",
